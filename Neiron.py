@@ -80,7 +80,7 @@ nb_validation_samples = 2500
 # Количество изображений для тестирования
 nb_test_samples = 2500
 
-!unzip -qq archive.zip
+
 
 base_dir = '/content/drive/MyDrive/Colab Files/buildings-vs-forests'
 
